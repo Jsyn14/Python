@@ -1,4 +1,4 @@
-
+#Jayson Hamilton
 # This program display: the purchase, the state sales tax, the county sales tax, the total sales tax, and the total of the sale.
 
 state_tax = 0.025
