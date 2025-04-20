@@ -1,4 +1,4 @@
-Jayson Hamilton
+#Jayson Hamilton
 # This program displays property taxes.
 
 state_tax = float (0.025)
